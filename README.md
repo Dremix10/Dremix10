@@ -2,11 +2,11 @@ I build production web platforms and AI tools — most recently a multi-tenant w
 
 ## Building
 
-- **[GrowZone](https://growzonecy.com)** — a multi-tenant Next.js/Supabase platform that generates and serves production websites for small businesses in Cyprus; one shared app, 8 client sites shipped from cold outreach through delivery.
-- **[DOBI](https://www.bookwithdobi.com/chat/cv-sample)** — an AI booking assistant built on the GrowZone platform. Validated demand with 100 cold calls, 1,000 DMs, and 50 walk-ins before writing a line of code.
-- **Rantevouu** — salon booking and CRM software; production, in use by two paying retainer clients.
-- **[Tichu](https://aegist.dev)** — real-time multiplayer card game (Node/Express/Socket.IO, React/Vite) with an Information-Set Monte Carlo Tree Search AI opponent. Self-hosted via Docker and Nginx.
-- **[Doom](https://github.com/Dremix10/Doom)** — a screen-time agent with zero settings: it learns your normal usage and only steps in when a session is genuinely unusual, and the last line of defense is a friend getting pinged, not a timer you'll ignore. Built at HackRice, live at [nudge.aegist.dev](https://nudge.aegist.dev).
+- **[GrowZone](https://growzonecy.com)** — a multi-tenant Next.js/Supabase platform that generates and serves production websites for small businesses in Cyprus; one shared app, 8 client sites shipped from cold outreach through delivery. Code's closed — paying clients run on it.
+- **[DOBI](https://www.bookwithdobi.com/chat/cv-sample)** ([code](https://github.com/Dremix10/agent-jones)) — an AI booking assistant built on the GrowZone platform, grown out of an early hackathon prototype. Validated demand with 100 cold calls, 1,000 DMs, and 50 walk-ins before writing a line of code. DOBI itself is closed-source (client businesses run on it); the linked repo is the original open prototype.
+- **Rantevouu** — salon booking and CRM software; production, in use by two paying retainer clients. Also closed-source, same reason as GrowZone.
+- **[Tichu](https://aegist.dev)** ([code](https://github.com/Dremix10/cyprus)) — real-time multiplayer card game (Node/Express/Socket.IO, React/Vite) with an Information-Set Monte Carlo Tree Search AI opponent. Self-hosted via Docker and Nginx.
+- **[Doom](https://nudge.aegist.dev)** ([code](https://github.com/Dremix10/Doom)) — a screen-time agent with zero settings: it learns your normal usage and only steps in when a session is genuinely unusual, and the last line of defense is a friend getting pinged, not a timer you'll ignore. Built at HackRice.
 - **[Alma](https://www.alma.careers)** ([code](https://github.com/Dremix10/WarmIntro)) — AI email outreach agent that books recruiting meetings with verified Investment Banking professionals from cold contact lists.
 
 ## Competitive programming
